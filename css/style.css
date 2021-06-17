@@ -1,0 +1,152 @@
+*{
+	margin:0 auto;
+	padding:0;
+	box-sizing:border-box
+}
+
+.wraper{
+  width:100%;
+  
+}
+
+body{
+	font-family:arial;
+	color:#fff;
+	
+}
+
+.header{
+	width:100%
+}
+
+.head-container{
+	width:100%;
+	text-align:center;
+	max-width:1500px;
+	margin:20px auto;
+	text-decoration:underline #7759EB ;
+	
+}
+
+
+.sometext,.title-adress,
+.qualification,.title-courses
+{
+	display:block;
+	margin:20px 40px;
+
+}
+#first,#last,#mobile,
+#email,#pin,#city,#state,
+#country,.text-inputs-max
+{
+	display:block;
+	margin:20px 0;
+	
+}
+
+.text-registration,
+.inputs,.text-max{
+	float:left
+}
+
+.main-container,.main-container-2{
+	width:100%;
+	max-width:1500px;}
+	
+
+
+.radio{
+	display:inline;
+	margin-right:20px
+	
+}
+
+
+.main{
+	width:100%;
+	background-color:#7759EB;
+	border:2px solid black
+	
+}
+
+
+h1{
+	color:#7759EB
+}
+
+.clear{
+	clear:both
+}
+
+
+
+.adress{
+width:15%;
+
+}
+
+.textarea{
+	width:400px;
+	height:150px;
+	resize:none;
+	outline:none;
+	text-indent:10px
+}
+
+.text-registration{
+	width:15%
+}
+
+
+.table{
+	text-align:center;
+	margin-top:20px
+}
+
+
+
+tbody input{
+	width:200px;
+	height:30px
+}
+
+input[type="checkbox"]{
+	margin-right:20px;
+	margin-bottom:10px
+}
+
+input{
+	text-indent:5px
+}
+#bca,#bcom,#bc{
+	margin-right:30px;
+	margin-top:40px
+}
+
+
+input[type="submit"],input[type="reset"]
+{
+	
+	width:150px;
+	height:30px;
+	margin-bottom:10px
+}
+
+
+.main-container-2{
+	text-align:center
+}
+
+
+input[type="submit"]:hover,
+input[type="reset"]:hover{
+	background:black;
+	color:gold;
+	border:3px solid gold
+}
+
+label{
+	white-space:nowrap;	
+}
+
